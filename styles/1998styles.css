@@ -1,0 +1,269 @@
+  body {
+   font-family: 'ubuntu';
+
+  }
+  
+  
+  .hd{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-top: -10px;
+    
+  }
+
+  .ft{
+
+    display: flex;
+    justify-content: center;
+    height: 60px;
+  }
+.boxform1{
+    display: flex;
+    justify-content: center;
+    border: 2px solid #00CDCD;
+    border-radius: 100px;
+    width:75%;
+    margin-left: 180px;
+    margin-bottom: 30px;
+
+} 
+
+
+.formulario1{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+
+}
+
+label{
+    font-family: 'Ubuntu';
+    font-size: 15px;
+    margin: 5px;
+    
+}
+/*.one{
+   
+height: 25px;
+border: 5px solid #6A00A7;
+border-radius: 10px;
+align-content: center;
+padding: 0 20px  0 20px;}
+*/
+
+
+ input{
+border: none;
+
+
+ }
+.div2{
+margin-left:30px;
+
+}
+
+
+.boxform1 
+{
+overflow-x: auto; /* Horizontal */
+}
+
+.boxform2{
+float: right;
+width: 25%;
+margin-top: 20px;
+} 
+
+.labeltech{
+
+    width: 80px;
+    height: 20px;
+}
+
+
+.titulosass {
+    
+    display: flex;
+    justify-content: center;
+    border: solid 1px #6A00A7;
+  /* box-shadow: 5px 10px rgba(202, 154, 229, 0.49);*/
+   box-shadow: none;
+    text-align: center;
+    color: #6A00A7;
+    padding:auto;
+   /* width:75%;*/
+   font-size: 'ubuntu';
+   /* margin-left: 180px;*/
+/*width: 50%;*/
+}
+
+.sectionht {
+    width:80%;
+    margin-left: 100px;
+}
+
+p{
+
+line-height: 20px;
+margin-left: 100px;
+font-family: 'Ubuntu';
+    font-size: 15px;
+    }
+
+
+
+
+td {
+  border: 4px solid;
+  border-image: linear-gradient(0deg, rgba(104,49,147,1) 0%, rgba(52,192,197,1) 100%);
+  border-image-slice: 1; /* Esto ajusta cómo se corta la imagen del borde (puedes ajustar según necesites) */ 
+  padding: 12px; 
+  font-size: 12px;
+  font-family: 'Ubuntu';
+  border-spacing: 1cap;
+  /* Define el gradiente como imagen del borde */
+    
+  }
+
+
+ th{
+    background-color: white;
+    padding: 10px 20px;
+    border: 1px solid rgb(133, 101, 239);
+    font-size: 15px;
+    font-family: 'Ubuntu';
+
+}
+
+
+.sectionlast{
+
+display: flex;
+justify-content: space-around;
+margin-top: 20px;
+
+}
+.seccionfirmas{
+margin-top: 150px;
+display: flex;
+justify-content:space-around;
+align-content: center;
+}
+
+.seccionfirmas2{
+margin-top: 20px;
+margin-bottom: 30px;
+display: flex;
+justify-content:space-around;
+align-content: center;
+
+}
+
+h3{
+border-top: 2px dotted aqua;
+padding-top: 5px;
+text-align: center;
+font-family: 'Ubuntu';
+font-size: 15px;
+
+}
+
+/*.tabla{
+
+display: flex;
+justify-content: center;
+width: 100%;
+height: auto;
+overflow-x: auto; /* Horizontal} */
+
+
+.getionintegral{
+
+border-bottom: none;
+
+}
+
+.tablaimagen{
+    display: flex;
+    justify-content: center; 
+}
+
+.button{
+display: flex;
+justify-content: center;
+align-content: center;
+margin: 20px;
+}
+
+.bordernone{
+  border-left: 1px solid #000;
+}
+
+.borderintegral {
+  display: flex;
+  border-top-left-radius: 30px;
+  border: solid 2px;
+  border-color: #10519b;
+  font-size: 15px;
+  font-weight: 600;
+  color: #0E4E97;
+}
+
+
+
+.bordercircuventas {
+display: flex;
+border: solid 1px;
+border-color: #6A00A7;
+font-size: 15px;
+font-weight: 700;
+    }
+
+.bordercircuventas {
+display: flex;
+border: solid 1px;
+border-color: #6A00A7;
+font-size: 15px;
+font-weight: 700;
+           }
+.bordercircucompras {
+display: flex;
+border: solid 1px;
+border-color: #6A00A7;
+}
+
+.bordercircuespecifico {
+display: flex;
+border: solid 1px;
+border-color: #6A00A7;
+font-size: 15px;
+font-weight: 700;
+}
+
+.bordervirtuales1 {
+display: flex;
+border: solid 1px;
+border-color: #6A00A7;
+font-size: 15px;
+font-weight: 700;
+           
+}
+.bordervirtuales2 {
+border:none;
+
+}
+  .bordervirtuales3{
+display: flex;
+border-bottom-left-radius: 30px;
+border: solid 1px;
+border-color: #6A00A7;
+font-size: 15px;
+font-weight: 700;
+  
+
+}
+
+
+
+
